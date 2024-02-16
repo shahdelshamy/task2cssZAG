@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.section1 {
+    margin-top: 0;
+    background-color: red;
+    height: 100vh;
+}
+
+.section1 h3 {
+    background-color: green;
+    color: white;
+    width: 95%;
+    margin: 0 auto 0 auto;
+    padding: 20px 0;
+    text-align: center;
+    border-left: 5px dashed red;
+    border-right: 5px dashed red;
+    border-bottom: 5px dashed red;
+    border-top: none;
+    outline: 5px dashed green;
+
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.section2 {
+    background-color: white;
+    height: 100vh;
+}
+
+.section3 {
+    background-color: green;
+    height: 100vh;
+    margin-bottom: 0;
+}
+
+.section4 {
+    background-image: url("https://images.pexels.com/photos/60582/newton-s-cradle-balls-sphere-action-60582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.section5 {
+    background-color: red;
+    height: 100vh;
+}
+
+.section6 {
+    background-color: white;
+    height: 100vh;
+}
+
+.section7 {
+    background-color: green;
+    height: 100vh;
+}
